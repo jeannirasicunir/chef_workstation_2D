@@ -1,4 +1,4 @@
-# Códido Chef Workstation Equipo 2D
+# Código Chef Workstation Equipo 2D
 Repositorio del proyecto de Chef Workstation del equipo 2D. En el proyecto de Chef que se muestra a continuación, se utilizaron los siguientes comandos: 
 
 ## Crear el repositorio de Chef
