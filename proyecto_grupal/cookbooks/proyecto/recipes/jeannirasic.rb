@@ -18,7 +18,7 @@ git 'C:\\Users\\jeann\\Desktop\\bulletin_app' do
 end
 
 # Generar la imagen de Docker y correr el contenedor
-execute 'correr nginx en docker' do
+execute 'correr aplicacion en docker' do
   command 'docker build -t bulletin-board . && docker run -d -p 8080:8080 bulletin-board'
   cwd 'C:\\Users\\jeann\\Desktop\\bulletin_app\\bulletin-board-app' 
   live_stream true
